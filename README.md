@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Vladislav Kalugin</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Automation+python+junior)](https://git.io/typing-svg)
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Automation+python+junior)](https://git.io/typing-svg)</h1>
 
 <!--
 **Kellagan/Kellagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
